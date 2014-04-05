@@ -1,0 +1,17 @@
+platform :ios,'6.0'
+
+pod 'RestKit'
+
+pod 'JSONKit-NoWarning'
+
+pod 'BlocksKit'
+
+pod 'SDWebImage'
+
+pod 'MagicalRecord'
+
+pod 'SVProgressHUD'
+
+pod 'Appirater'
+
+pod 'RETableViewManager'
