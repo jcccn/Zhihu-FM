@@ -19,3 +19,5 @@ pod 'RETableViewManager'
 pod 'UMAnalytics', :git => 'https://github.com/jcccn/UMeng-Analytics-iOS.git'
 
 pod 'UMFeedback', :git => 'https://github.com/jcccn/UMeng-Feedback-iOS.git'
+
+pod 'ShareSDK', :git => 'https://github.com/jcccn/ShareSDK-iOS.git'
